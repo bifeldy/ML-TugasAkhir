@@ -29,7 +29,7 @@ Exploratory Data Analysis, Modelling, Lihat Di -> [Laporan Project Akhir](Predic
 
 <br />
 
-## Pengembang
+## Tim Riset
 
 * [**Steven Reinhart**](https://www.FaceBook.com/Steven.Kam.73)
 * [**Basilius Bias Astho Christyono**](https://www.FaceBook.com/Bifeldy)
