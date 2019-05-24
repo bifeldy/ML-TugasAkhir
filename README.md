@@ -25,7 +25,7 @@ Setiap baris mencantumkan variabel terlebih dahulu, dan label kelas adalah entri
 
 ## Laporan Project
 
-Exploratory Data Analysis, Modelling, Lihat Di -> [Laporan Project Akhir](Predicting%20A%20Pulsar%20Star.pdf)
+Exploratory Data Analysis, Modelling, Lihat Di -> [Laporan Project Akhir](Laporan/Predicting%20A%20Pulsar%20Star.pdf)
 
 <br />
 
