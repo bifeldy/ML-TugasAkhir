@@ -20,11 +20,21 @@ Kumpulan data yang dibagikan di sini berisi 16.259 contoh palsu yang disebabkan 
 
 Setiap baris mencantumkan variabel terlebih dahulu, dan label kelas adalah entri terakhir. Label kelas yang digunakan adalah 0 (negatif) dan 1 (positif).
 
+<br />
 
 ## Laporan Project
 
 Exploratory Data Analysis, Modelling, Lihat Di -> [Laporan Project Akhir](Predicting%20A%20Pulsar%20Star.pdf)
 
+<br />
+
+## Pengembang
+
+* [**Steven Reinhart**](https://www.FaceBook.com/Steven.Kam.73)
+* [**Basilius Bias Astho Christyono**](https://www.FaceBook.com/Bifeldy)
+* [**Raynaldi**](https://www.facebook.com/tjannn)
+
+<br />
 
 ## Lisensi
 
