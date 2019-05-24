@@ -7,6 +7,8 @@ Machine Learning Project -- Predicting A Pulsar Star
 
 ----
 
+<br />  
+
 ## Informasi Dataset
 
 HTRU2 adalah kumpulan data yang menggambarkan sampel kandidat pulsar yang dikumpulkan selama Survei Alam Semesta Resolusi Tinggi.
@@ -33,7 +35,7 @@ Exploratory Data Analysis, Modelling, Lihat Di -> [Laporan Project Akhir](Predic
 
 * [**Steven Reinhart**](https://www.FaceBook.com/Steven.Kam.73)
 * [**Basilius Bias Astho Christyono**](https://www.FaceBook.com/Bifeldy)
-* [**Raynaldi**](https://www.facebook.com/tjannn)
+* [**Raynaldi**](https://www.facebook.com/Tjannn)
 
 <br />
 
