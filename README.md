@@ -33,7 +33,7 @@ Exploratory Data Analysis, Modelling, Lihat Di -> [Laporan Project Akhir](Lapora
 
 * [**Steven Reinhart**](https://www.FaceBook.com/Steven.Kam.73)
 * [**Basilius Bias Astho Christyono**](https://www.FaceBook.com/Bifeldy)
-* [**Raynaldi**](https://www.Facebook.com/Tjannn)
+* [**Raynaldi Tjan**](https://www.Facebook.com/Tjannn)
 
 <br />
 
